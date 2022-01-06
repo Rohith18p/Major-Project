@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: manip
+    relative_path: urdf/manip.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/manip.srdf
+  CONFIG:
+    author_name: arpith
+    author_email: arpithbdk6@gmail.com
+    generated_timestamp: 1622369921
